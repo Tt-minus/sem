@@ -1,8 +1,4 @@
-Hopefully this works
-
-And again, I wonder if this one will work. God please make this work.
-
-Let's try this again
+I don;t even know anymore
 
 ![workflow](https://github.com/Tt-minus/sem/actions/workflows/main.yml/badge.svg)
 
