@@ -23,7 +23,7 @@ public class App
         // Add document to collection
         collection.insertOne(doc);
 
-        // Check document in collection
+        // Check document in collection you know
         Document myDoc = collection.find().first();
         System.out.println(myDoc.toJson());
     }
